@@ -22,5 +22,5 @@ To deploy this project at Backend on localhost 8000
 
 ## Screenshots
 FrontEnd
-![App Screenshot](https://raw.githubusercontent.com/akashbiradar1/TaskManager/55a13e1e34cc0ca5ae08b592d9d5fa96c626e39f/taskmanager%20snips/frontend1.PNGtext=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/akashbiradar1/TaskManager/55a13e1e34cc0ca5ae08b592d9d5fa96c626e39f/taskmanager%20snips/frontend1.PNG?text=App+Screenshot+Here)
 
